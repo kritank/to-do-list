@@ -3,6 +3,7 @@
 A to-do list build using HTML, CSS and JavaScript.
 
 # Features
+- Responsive UI
 - Can add a task <br />
 - Mark tasks as complete <br />
 - Remove completed tasks <br />
