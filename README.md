@@ -10,6 +10,6 @@ A to-do list build using HTML, CSS and JavaScript.
 - Empty the task List 
 
 # Screenshots
-![Screenshot1](https://github.com/kritank/to-dol-ist/blob/master/Screenshots/Screenshot (41).png)
-![Screenshot2](https://github.com/kritank/to-dol-ist/blob/master/Screenshots/Screenshot (42).png)
+![Screenshot1](https://github.com/kritank/to-dol-ist/blob/master/Screenshots/1.png)
+![Screenshot2](https://github.com/kritank/to-dol-ist/blob/master/Screenshots/2.png)
 
